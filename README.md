@@ -40,7 +40,7 @@
  08B5002008BD1B681B68022B
  ```
 
-Save the file and you flash it now :)
+Save the file and you can flash it now :)
 
 
     
